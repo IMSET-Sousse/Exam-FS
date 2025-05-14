@@ -1,0 +1,1 @@
+The project involves creating a web platform to connect independent teachers with students for online or in-person courses. It includes features for booking, payment, and evaluation, as well as two AI modules for quiz generation and suspicious behavior detection. The technologies used include Next.js, Django, PostgreSQL, and AI tools like Hugging Face and scikit-learn.
