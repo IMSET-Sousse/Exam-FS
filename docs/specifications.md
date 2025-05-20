@@ -508,7 +508,6 @@ Création de quiz à l’ajout d’un cours (trigger ou tâche asynchrone)
 
 
 Scans réguliers d’anomalies (cron / Celery Beat)
-……………………………………………………………………………………………...
 
 
 
