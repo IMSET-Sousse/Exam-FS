@@ -1,0 +1,1 @@
+# The file /backend-reservation-platform/backend-reservation-platform/apps/quiz/__init__.py is intentionally left blank.
